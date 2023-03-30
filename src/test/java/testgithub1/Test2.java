@@ -1,13 +1,15 @@
 package testgithub1;
 
-public class Test {
+public class Test2 {
 
 	public static void main(String[] args) {
-		int x=10;
-		int y=20;
-				int z=x+y;
+		int x=100;
+		int y=200;
+		int a=300;
+				int z=x+y+a;
 				
 				System.out.println(z);
 	}
+	}
 
-}
+
